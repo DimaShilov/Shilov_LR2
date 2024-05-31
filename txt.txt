@@ -1,0 +1,11 @@
+echo off
+md Shilov
+cd Shilov
+pause
+echo > 25102002.txt
+pause
+md Yurevish
+cd Yurevich
+pause
+echo > HUAWEI1
+pause
